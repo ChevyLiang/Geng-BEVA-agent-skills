@@ -1,4 +1,4 @@
-# Codex Rice Analysis Skills
+# Codex Skills For Geng-BEVA-Agent
 
 ## A modular analysis framework for rice functional genomics, introgression, and population structure
 
