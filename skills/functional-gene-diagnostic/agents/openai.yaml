@@ -1,0 +1,4 @@
+interface:
+  display_name: "Functional Gene Diagnostic"
+  short_description: "Correct VCF alleles to RiceNavi coordinates and identify favorable rice genotypes"
+  default_prompt: "Use $functional-gene-diagnostic to align VCF REF/ALT to the bundled RiceNavi Nipponbare/alternative alleles, classify resolvable homozygotes into Nipponbare/Alternative favorable or unfavorable states using Positive/Negative and early-heading rules, keep heterozygotes separate, and summarize the requested samples conservatively."

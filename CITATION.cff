@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use Geng-BEVA Skills, please cite this software and the associated Geng-BEVA manuscript when available."
+title: "Geng-BEVA Skills"
+type: software
+authors:
+  - family-names: "Liang"
+    given-names: "Chevy"
+    email: "chevyliang0905@163.com"
+    affiliation: "Rice Research Institute, Shenyang Agricultural University"
+  - family-names: "Sun"
+    given-names: "Jian"
+    affiliation: "Rice Research Institute, Shenyang Agricultural University"
+version: 0.1.0
+date-released: 2026-09-09
+license: MIT
+keywords:
+  - rice
+  - Geng rice
+  - japonica rice
+  - genomics
+  - molecular breeding
+  - Codex skills
+  - population genetics
+  - IGCI

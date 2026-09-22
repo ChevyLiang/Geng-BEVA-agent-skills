@@ -1,0 +1,4 @@
+interface:
+  display_name: "IGCI Evaluation"
+  short_description: "Calculate indica genomic contribution from diagnostic alleles"
+  default_prompt: "Use $igci-evaluation to calculate IGCI from my Geng-BEVA VCF and diagnostic indica/japonica allele panel, then explain the chromosome and genome summaries."

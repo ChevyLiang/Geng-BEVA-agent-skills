@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transgene Assay Evidence"
+  short_description: "Evaluate encoded transgene assay evidence from GT and DP"
+  default_prompt: "Use $transgene-detection to evaluate transgene-assay evidence in my standardized Geng-BEVA VCF and report the heuristic support tiers without over-interpreting them."

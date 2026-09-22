@@ -1,0 +1,198 @@
+﻿CHROM,POS,ID,Alternative_Allele_Effect,Nipponbare_Allele,Alternative_Allele,Alternative_Allele_Function,GENEname,Category,Trait,Alternative_Allele_Direction
+1,178766,1_178766,Positive,G,A,higher nitrogen use efficiency,OsNPF6.1,Others,nitrogen use efficiency,increasing
+1,5244076,1_5244076,Uncertainty,G,T,larger tiller angle,D2,Plant Architecture,Tiller angle,increasing
+1,5271719,1_5271719,Positive,TTCAGCCATGGG,T,increasing grain number,Gn1a,Yield components,grain number,increasing
+1,5568692,1_5568692,Uncertainty,T,C,fertility restoration,Rf3,Fertility,fertility restoration,gain
+1,11462725,1_11462725,Positive,C,T,increasing salt tolerance,SKC1,Abiotic_stress,salt tolerance,increasing
+1,18722895,1_18722895,Uncertainty,C,T,hybrid incompatibility,ESA1,Fertility,incompatibility,gain
+1,22376434,1_22376434,Uncertainty,C,T,Hybrid male sterility,SaF,Fertility,male fertility,gain
+1,22381235,1_22381235,Uncertainty,T,G,Hybrid male sterility,SaM,Fertility,male fertility,gain
+1,25382824,1_25382824,Uncertainty,G,T,light red seed coat,Rd,Seed Morphology,red seed coat,gain
+1,25383093,1_25383093,Uncertainty,A,C,red seed coat,Rd,Seed Morphology,red seed coat,gain
+1,29568422,1_29568422,Negative,GGCC,G,decreasing flooding tolerance,OsCBL10,Abiotic_stress,flooding tolerance,decreasing
+1,29929465,1_29929465,Uncertainty,G,A,larger flag leaf angle,OsBRI1,Plant Architecture,leaf angle,increasing
+1,29930698,1_29930698,Uncertainty,C,T,larger flag leaf angle,OsBRI1,Plant Architecture,leaf angle,increasing
+1,30712558,1_30712558,Uncertainty,C,T,more 7-O-glucoside,OsUGT706D1,Secondary metabolism,UV-B tolerance,increasing
+1,31558876,1_31558876,Positive,G,GCAAAGTTGCCAT,increasing grain number,NOG1,Yield components,grain number,increasing
+1,33453244,1_33453244,Negative,C,T,more MeOH-Jasmonates,OsPME1,Others,MeOH-Jasmonates,increasing
+1,33695501,1_33695501,Uncertainty,A,T,interspecific hybrid weakness,Hwi2,Fertility,incompatibility,gain
+1,35555900,1_35555900,Positive,T,C,increasing grain number,LAX1,Yield components,grain number,increasing
+1,35558484,1_35558484,Positive,C,A,increasing grain number,LAX1,Yield components,grain number,increasing
+1,36346000,1_36346000,Positive,T,C,increasing drought tolerance,OsPP15,Abiotic_stress,drought tolerance,increasing
+1,36355847,1_36355847,Uncertainty,G,A,delaying heading date under LD,HESO1,Heading date,heading date under LD,delay
+1,36461792,1_36461792,Negative,T,G,seed shattering,qSH1,Seed Morphology,seed shattering,gain
+1,38137703,1_38137703,Positive,CTCTGTG,C,increasing seed protein content,OsAAP6,Taste quality,protein content,increasing
+1,38382846,1_38382846,Positive,CCG,C,semi-dwarf,sd1,Plant Architecture,plant height,decreasing
+1,38383141,1_38383141,Positive,TA,T,semi-dwarf,sd1,Plant Architecture,plant height,decreasing
+1,38385064,1_38385064,Positive,C,G,semi-dwarf,sd1,Plant Architecture,plant height,decreasing
+1,40363925,1_40363925,Uncertainty,GAGGA,G,delaying heading date,OsMADS51,Heading date,heading date,delay
+2,1663821,2_1663821,Negative,G,A,decreasing Al tolerance,NRAT1,Abiotic_stress,Al tolerance,decreasing
+2,5410205,2_5410205,Positive,T,C,preventing copper accumulation,OsHMA4,Abiotic_stress,copper accumulation,decreasing
+2,6397412,2_6397412,Uncertainty,C,A,thermosensitive male sterility,tms5,Fertility,thermosensitive male fertility,gain
+2,8117283,2_8117283,Positive,CA,C,larger grain width and weight,GW2,Yield components,grain width,increasing
+2,8117283,2_8117283,Positive,CA,C,larger grain width and weight,GW2,Yield components,grain weight,increasing
+2,9997737,2_9997737,Uncertainty,C,T,fertility restoration,Rf2,Fertility,fertility restoration,gain
+2,10389082,2_10389082,Negative,CATCAGGAACCAAAAGAATTAGAGACGAT,C,decreasing herbicide tolerance,HIS1,Abiotic_stress,herbicide tolerance,decreasing
+2,23991055,2_23991055,Uncertainty,GTGCA,G,promoting heading date,OsCOL4,Heading date,heading date,promote
+2,24771726,2_24771726,Negative,T,A,decreasing chilling tolerance,LTG1,Abiotic_stress,chilling tolerance,decreasing
+2,25190881,2_25190881,Positive,C,G,preventing cd accumulation,CAL1,Abiotic_stress,cd accumulation,preventing
+2,28865723,2_28865723,Positive,G,T,larger grain size and higher nitrogen use efficiency,GRF4,Yield components,grain size,increasing
+2,28865723,2_28865723,Positive,G,T,larger grain size and higher nitrogen use efficiency,GRF4,Others,nitrogen use efficiency,increasing
+2,30096330,2_30096330,Uncertainty,A,G,delaying heading date under LD,DTH2,Heading date,heading date under LD,delay
+2,31768358,2_31768358,Negative,A,G,more MeOH-Jasmonates,OsTSD2,Others,MeOH-Jasmonates,increasing
+2,32514337,2_32514337,Positive,A,T,higher nitrogen use efficiency,OsNR2,Others,nitrogen use efficiency,increasing
+2,35370598,2_35370598,Uncertainty,G,T,fewer trigonelline,Trigonelline_gwas,Secondary metabolism,lignin content,increasing
+3,220111,3_220111,Negative,CCTCCACTTCTTCACCTTCTCCGACGCGTGCGGCTGCCAGTGCGGCTCATGCCCTAGTCCCGGCGGAGGAGG,C,decreasing low-temperature germinability ability,qLTG3-1,Abiotic_stress,germinability ability,decreasing
+3,718648,3_718648,Uncertainty,A,T,delaying heading date,Ehd4,Heading date,heading date,delay
+3,846037,3_846037,Negative,T,A,cadmium accumulation,OsCd1,Abiotic_stress,cadmium accumulation,increasing
+3,1270327,3_1270327,Uncertainty,T,C,delaying heading date,OsSOC1,Heading date,heading date,delay
+3,1666408,3_1666408,Uncertainty,A,ACTCGT,promoting heading date under LD,MIR528,Heading date,heading date under LD,promote
+3,3845747,3_3845747,Uncertainty,G,T,larger flag leaf angle,OsbHLH153,Plant Architecture,leaf angle,increasing
+3,4353347,3_4353347,Positive,A,C,increasing grain length,OsLG3,Yield components,grain length,increasing
+3,6894836,3_6894836,Uncertainty,CT,C,callus browning,BOC1,Others,callus browning,increasing
+3,11326677,3_11326677,Negative,G,A,decreasing cold tolerance,OsMYB2,Abiotic_stress,chilling tolerance,decreasing
+3,17340602,3_17340602,Negative,T,C,deceasing grain length,GL3.2,Yield components,grain length,decreasing
+3,21067004,3_21067004,Positive,C,T,increasing salt tolerance,qSE3,Abiotic_stress,salt tolerance,increasing
+3,25046741,3_25046741,Positive,G,T,increasing grain length,GL3.1,Yield components,grain length,increasing
+3,28093193,3_28093193,Negative,G,A,decreasing generation of stale flavor,LOX-3,Taste quality,stale flavor,decreasing
+3,28428731,3_28428731,Positive,G,GTGTA,increasing lodging resistance,OsTB1,Plant Architecture,lodging resistance,increasing
+3,29586015,3_29586015,Uncertainty,A,C,larger tiller angle,TAC3,Plant Architecture,Tiller angle,increasing
+3,31512460,3_31512460,Uncertainty,A,T,delaying heading date under LD,Hd6,Heading date,heading date under LD,delay
+3,33002789,3_33002789,Uncertainty,G,A,promoting heading date under LD,Hd16,Heading date,heading date under LD,promote
+3,35382034,3_35382034,Positive,T,A,more tricin-lignan-glycosides,OsUGT706C2,Secondary metabolism,UV-B tolerance,increasing
+3,35390422,3_35390422,Positive,C,T,increasing grain length,GL3.3,Yield components,grain length,increasing
+4,2032882,4_2032882,Positive,C,G,increasing chilling tolerance,CTB4a,Abiotic_stress,chilling tolerance,increasing
+4,6566248,4_6566248,Uncertainty,G,GAC,more O-methylapigenin C-pentoside,LOC_Os04g11970,Secondary metabolism,hormone sensitivity,increasing
+4,6942614,4_6942614,Positive,T,C,increasing insect resistance,Bph3,Biotic_stress,insect resistance,increasing
+4,6956655,4_6956655,Positive,C,T,increasing insect resistance,Bph3,Biotic_stress,insect resistance,increasing
+4,6968474,4_6968474,Positive,A,G,increasing insect resistance,Bph3,Biotic_stress,insect resistance,increasing
+4,16734743,4_16734743,Negative,GGGC,G,awn present,An-1,Seed Morphology,awn,gain
+4,19835833,4_19835833,Positive,TCGGCGGCGGCTTCTC,T,increasing blast resistance,Pi21,Biotic_stress,blast tolerance,increasing
+4,19836043,4_19836043,Positive,ACGGCGGCGGCGGCTGCGGCAG,A,increasing blast resistance,Pi21,Biotic_stress,blast tolerance,increasing
+4,23886659,4_23886659,Positive,G,GT,increasing boron-toxicity tolerance,BET1,Abiotic_stress,virus resistance,increasing
+4,25959585,4_25959585,Positive,TC,T,shorter awn,An-2,Seed Morphology,awn length,decreasing
+4,25960486,4_25960486,Negative,C,CTAT,awn present,An-2,Seed Morphology,awn,gain
+4,30315214,4_30315214,Negative,T,A,decreasing chilling tolerance,COLD1,Abiotic_stress,chilling tolerance,decreasing
+4,30726195,4_30726195,Negative,T,C,increasing root sodium content,OsHKT1;1,Abiotic_stress,root sodium content,increasing
+4,31212801,4_31212801,Negative,A,G,decreasing leaf width and yield,NAL1,Plant Architecture,leaf width,decreasing
+4,31212801,4_31212801,Negative,A,G,decreasing leaf width and yield,NAL1,Yield components,yield,decreasing
+4,31600315,4_31600315,Negative,G,A,decreasing blast tolerance,PiPR1,Biotic_stress,blast tolerance,decreasing
+4,31602115,4_31602115,Negative,G,A,decreasing blast tolerance,PiPR1,Biotic_stress,blast tolerance,decreasing
+4,31602847,4_31602847,Negative,GAA,G,decreasing blast tolerance,PiPR1,Biotic_stress,blast tolerance,decreasing
+4,31640498,4_31640498,Positive,T,A,increasing blight resistance,Xa1,Biotic_stress,blight resistance,increasing
+4,31662295,4_31662295,Positive,G,T,increasing blight resistance,Xa1,Biotic_stress,blight resistance,increasing
+4,33304910,4_33304910,Negative,A,G,decreasing root length and weight,OsJAZ1,Plant Architecture,root length,decreasing
+4,33304910,4_33304910,Negative,A,G,decreasing root length and weight,OsJAZ1,Others,root weight,decreasing
+5,990754,5_990754,Uncertainty,T,A,glabrousness of rice leave glumes,GLR1,Seed Morphology,leave glumes glabrousness,increasing
+5,2604473,5_2604473,Positive,G,A,increasing setting rate,PTB1,Yield components,setting rate,increasing
+5,3339934,5_3339934,Positive,G,C,decreasing of chalkiness,Chalk5,Taste quality,chalkiness,decreasing
+5,3444274,5_3444274,Negative,C,T,decreasing grain width,GS5,Yield components,grain width,decreasing
+5,5365256,5_5365256,Negative,G,A,decreasing grain width,GW5,Yield components,grain width,decreasing
+5,6658027,5_6658027,Uncertainty,C,T,increasing mesocotyl length,OsGSK2,Plant Architecture,mesocotyl length,increasing
+5,25515106,5_25515106,Negative,G,C,higher plant height,SBI,Plant Architecture,plant height,increasing
+6,1468526,6_1468526,Negative,T,TCTCTCACTCTCA,decreasing grain size,GS6,Yield components,grain size,decreasing
+6,1633040,6_1633040,Positive,A,G,more L-asparagine,OsACS6,Taste quality,L-asparagine,increasing
+6,1767006,6_1767006,Uncertainty,G,GCCACGGGTTCCAGGGCCTCAAGC,glutinous rice,Waxy,Taste quality,glutinous rice,gain
+6,1767637,6_1767637,Positive,A,G,decreasing amylose content,Waxy,Taste quality,amylose content,decreasing
+6,1768998,6_1768998,Negative,C,T,increasing amylose content,Waxy,Taste quality,amylose content,increasing
+6,2235191,6_2235191,Uncertainty,A,G,delaying heading date,Hd17,Heading date,heading date,delay
+6,4201227,6_4201227,Uncertainty,C,T,hybrid incompatibility,DPL2,Fertility,incompatibility,gain
+6,5315389,6_5315389,Uncertainty,C,G,slight pigmentation apiculus,OsC1,Seed Morphology,slight pigmentation apiculus,gain
+6,5316058,6_5316058,Uncertainty,TACTGGAACAG,T,colorless apiculus ,OsC1,Seed Morphology,colorless apiculus ,gain
+6,5316554,6_5316554,Uncertainty,C,CTGCAGGCTCCG,colorless apiculus ,OsC1,Seed Morphology,colorless apiculus ,gain
+6,5745402,6_5745402,Uncertainty,C,CCAGTGATCGAAAT,hybrid incompatibility,ORF3,Fertility,incompatibility,gain
+6,5758523,6_5758523,Uncertainty,AGCCGCGTAGCT,A,hybrid incompatibility,ORF4,Fertility,incompatibility,gain
+6,5759744,6_5759744,Uncertainty,A,ATTAAATTT,hybrid compatibility,S5,Fertility,incompatibility,loss
+6,5761369,6_5761369,Uncertainty,TACAACGATCC,T,hybrid compatibility,S5,Fertility,incompatibility,loss
+6,6752756,6_6752756,Positive,A,G,increasing gelatinization temperature,ALK,Taste quality,gelatinization temperature,increasing
+6,9337101,6_9337101,Uncertainty,CG,C,promoting heading date under LD,Hd1,Heading date,heading date under LD,promote
+6,9338220,6_9338220,Uncertainty,CAAGA,C,promoting heading date under LD,Hd1,Heading date,heading date under LD,promote
+6,10389270,6_10389270,Positive,C,T,increasing blast resistance,Pi9,Biotic_stress,blast tolerance,increasing
+6,13055819,6_13055819,Positive,A,G,increasing blast resistance,Pid3,Biotic_stress,blast tolerance,increasing
+6,13057570,6_13057570,Positive,A,G,increasing blast resistance,Pid3,Biotic_stress,blast tolerance,increasing
+6,13058843,6_13058843,Positive,GCCCTGAAGA,G,increasing blast resistance,Pid3,Biotic_stress,blast tolerance,increasing
+6,26592357,6_26592357,Positive,C,T,increasing grain weight and plant height,GW6a,Yield components,grain weight,increasing
+6,26592357,6_26592357,Positive,C,T,increasing grain weight and plant height,GW6a,Plant Architecture,plant height,increasing
+6,27480778,6_27480778,Positive,G,C,increasing lodging resistance,APO1,Plant Architecture,lodging resistance,increasing
+6,27484286,6_27484286,Positive,C,T,increasing grain number,APO1,Yield components,grain number,increasing
+6,29539670,6_29539670,Negative,T,C,lower potassium use efficiency,OsHKT2;1,Abiotic_stress,potassium use efficiency,decreasing
+7,2188150,7_2188150,Positive,A,G,fewer feruloylserotonin,LOC_Os07g04970,Secondary metabolism,animal damage resistance,increasing
+7,2188863,7_2188863,Positive,C,G,fewer feruloylserotonin,LOC_Os07g04970,Secondary metabolism,animal damage resistance,increasing
+7,6068071,7_6068071,Uncertainty,A,AACGCGAAAAGTCGG,red seed coat,Rc,Seed Morphology,red seed coat,gain
+7,6693475,7_6693475,Uncertainty,G,T,photoperiod-sensitive male sterility,pms1,Fertility,photoperiod-sensitive male sterility,gain
+7,7407917,7_7407917,Negative,T,G,high cadmium accumulation,OsHMA3,Abiotic_stress,cadmium accumulation,increasing
+7,7409315,7_7409315,Negative,C,T,high cadmium accumulation,OsHMA3,Abiotic_stress,cadmium accumulation,increasing
+7,7545012,7_7545012,Positive,TTTCAGGTTACAAG,T,increasing grain length,OsSNB,Yield components,grain length,increasing
+7,8878858,7_8878858,Negative,AG,A,high cadmium accumulation,OsNRAMP5,Abiotic_stress,cadmium accumulation,increasing
+7,8879641,7_8879641,Negative,A,G,high cadmium accumulation,OsNRAMP5,Abiotic_stress,cadmium accumulation,increasing
+7,9152558,7_9152558,Uncertainty,G,T,promoting heading date under LD,Ghd7,Heading date,heading date under LD,promote
+7,9154489,7_9154489,Uncertainty,G,C,promoting heading date under LD,Ghd7,Heading date,heading date under LD,promote
+7,9154664,7_9154664,Uncertainty,C,A,promoting heading date under LD,Ghd7,Heading date,heading date under LD,promote
+7,15787003,7_15787003,Uncertainty,G,T,hybrid compatibility,S7,Fertility,incompatibility,loss
+7,19061609,7_19061609,Positive,CCCGTGCTGTCGTTCAA,C,more 5-O-glucoside,OsUGT707A2,Secondary metabolism,UV-B tolerance,increasing
+7,22119350,7_22119350,Positive,T,C,increasing resistance to tungro spherical virus,eIF4G,Biotic_stress,virus resistance,increasing
+7,22930113,7_22930113,Positive,T,C,increasing resistance to tungro spherical virus,OsSAP16,Biotic_stress,virus resistance,increasing
+7,24669233,7_24669233,Positive,CTATCACTTTCT,C,increasing grain length,GW7,Yield components,grain length,increasing
+7,24714487,7_24714487,Positive,A,C,increasing grain size,CYP78A13,Yield components,grain size,increasing
+7,24714768,7_24714768,Positive,G,T,increasing grain size,CYP78A13,Yield components,grain size,increasing
+7,28306257,7_28306257,Uncertainty,C,CGCGTGCGCGTCCGTGCGT,loose panicle,FZP,Yield components,loose panicle,gain
+7,29623435,7_29623435,Uncertainty,C,G,promoting heading date under LD,Ghd7.1,Heading date,heading date under LD,promote
+7,29627357,7_29627357,Uncertainty,AGAACGTTG,A,promoting heading date under LD,Ghd7.1,Heading date,heading date under LD,promote
+7,29628500,7_29628500,Uncertainty,T,C,promoting heading date under LD,Ghd7.1,Heading date,heading date under LD,promote
+8,86089,8_86089,Positive,T,C,decreasing molybdenum accumulation,Os-MOT1;1 ,Abiotic_stress,molybdenum accumulation,decreasing
+8,2388554,8_2388554,Uncertainty,T,C,delaying heading date,Hd18,Heading date,heading date,delay
+8,4333871,8_4333871,Uncertainty,A,C,promoting heading date under LD,DTH8,Heading date,heading date under LD,promote
+8,4334281,8_4334281,Uncertainty,GGCCTTCTC,G,promoting heading date under LD,DTH8,Heading date,heading date under LD,promote
+8,7573877,8_7573877,Positive,G,GGGCGGT,higher nitrogen use efficiency,ARE1,Others,nitrogen use efficiency,increasing
+8,20379883,8_20379883,Positive,ATCG,A,fragrance,Badh2,Taste quality,fragrance,increasing
+8,20382858,8_20382858,Positive,AAAGAT,A,fragrance,Badh2,Taste quality,fragrance,increasing
+8,20385593,8_20385593,Positive,T,TG,fragrance,Badh2,Taste quality,fragrance,increasing
+8,23999487,8_23999487,Positive,G,C,awn absent,RAE2,Seed Morphology,awn,loss
+8,26501540,8_26501540,Positive,TGCG,T,increasing grain width,GW8,Yield components,grain width,increasing
+8,26505387,8_26505387,Positive,C,A,increasing grain width,GW8,Yield components,grain width,increasing
+8,26729913,8_26729913,Positive,TTTCATCATAAGTCAGTTCTG,T,increasing blight resistance,Xa13,Biotic_stress,blight resistance,increasing
+8,26887943,8_26887943,Negative,C,T,decreasing tiller number and increasing grain number,OsTUB1,Yield components,tiller number,decreasing
+8,26887943,8_26887943,Negative,C,T,decreasing tiller number and increasing grain number,OsTUB1,Yield components,grain number,increasing
+8,26909531,8_26909531,Positive,T,C,increasing blast resistance,OsCERK1,Biotic_stress,blast tolerance,increasing
+9,9672381,9_9672381,Positive,A,G,increasing blast resistance,Pi5-1,Biotic_stress,blast tolerance,increasing
+9,9779736,9_9779736,Positive,A,G,increasing blast resistance,Pi56,Biotic_stress,blast tolerance,increasing
+9,14568100,9_14568100,Positive,T,C,increasing tiller number,OsTb2,Yield components,tiller number,increasing
+9,16415104,9_16415104,Uncertainty,T,A,erect panicle and decreasing plant height,dep1,Plant Architecture,erect panicle,gain
+9,16415104,9_16415104,Positive,T,A,erect panicle and decreasing plant height,dep1,Plant Architecture,plant height,decreasing
+9,16415255,9_16415255,Uncertainty,G,C,erect panicle and decreasing plant height,dep1,Plant Architecture,erect panicle,gain
+9,16415255,9_16415255,Positive,G,C,erect panicle and decreasing plant height,dep1,Plant Architecture,plant height,decreasing
+9,17133004,9_17133004,Positive,CCGCCGCCGCCACCGG,C,increasing root thickness and root length,qRT9,Plant Architecture,root thickness,increasing
+9,17133004,9_17133004,Positive,CCGCCGCCGCCACCGG,C,increasing root thickness and root length,qRT9,Plant Architecture,root length,increasing
+9,18122850,9_18122850,Negative,C,T,decreasing chilling tolerance,bZIP73,Abiotic_stress,chilling tolerance,decreasing
+9,21464008,9_21464008,Positive,G,A,fewer N-feruloylputrescine,OsAT4c,Secondary metabolism,animal damage resistance,increasing
+10,4665777,10_4665777,Negative,C,G,decreasing UV-B tolerance,qUVR-10,Abiotic_stress,UV-B tolerance,decreasing
+10,4666493,10_4666493,Positive,C,T,increasing UV-B tolerance,qUVR-10,Abiotic_stress,UV-B tolerance,increasing
+10,13723265,10_13723265,Uncertainty,A,G,increasing flag leaf angle,OsbHLH174,Plant Architecture,leaf angle,increasing
+10,17076177,10_17076177,Uncertainty,T,C,delaying heading date,Ehd1,Heading date,heading date,delay
+10,19058375,10_19058375,Uncertainty,G,A,fertility restoration,Rf1b,Fertility,fertility restoration,gain
+10,19330694,10_19330694,Negative,G,A,dereasing chilling tolerance,OsLTPL159,Abiotic_stress,chilling tolerance,decreasing
+10,20872491,10_20872491,Uncertainty,A,AT,promoting heading date under LD,OsMADS56,Heading date,heading date under LD,promote
+10,21759092,10_21759092,Positive,G,A,higher nitrogen use efficiency,NRT1.1B,Others,nitrogen use efficiency,increasing
+11,2454121,11_2454121,Uncertainty,C,T,delaying heading date,RCN1,Heading date,heading date,delay
+11,6543950,11_6543950,Positive,C,G,increasing blast resistance,RGA4,Biotic_stress,blast tolerance,increasing
+11,6544171,11_6544171,Positive,G,A,increasing blast resistance,RGA4,Biotic_stress,blast tolerance,increasing
+11,6554829,11_6554829,Positive,T,A,increasing blast resistance,RGA5,Biotic_stress,blast tolerance,increasing
+11,7659694,11_7659694,Positive,T,C,increasing blast resistance,LHCB5,Biotic_stress,blast tolerance,increasing
+11,16984309,11_16984309,Negative,A,G,decreasing chilling tolerance,HAN1,Abiotic_stress,chilling tolerance,decreasing
+11,22800220,11_22800220,Positive,A,AGAAAGGCTTTG,increasing blast resistance,Pb1,Biotic_stress,blast tolerance,increasing
+11,23555223,11_23555223,Positive,C,CATAA,increasing low-oxygen germination ability,OsGF14h,Abiotic_stress,low-oxygen germination ability,increasing
+11,25263992,11_25263992,Positive,C,T,increasing blast resistance,Pi54,Biotic_stress,blast tolerance,increasing
+11,25467884,11_25467884,Positive,A,C,fewer benzoyl tryptamine,Os-TBT1,Secondary metabolism,fungus resistance,increasing
+11,25501655,11_25501655,Positive,C,A,fewer cinnamoyl tryptamine,Os-TBT2,Secondary metabolism,fungus resistance,increasing
+11,27206054,11_27206054,Negative,G,A,decreasing lateral roots number,TIPS-11-9,Plant Architecture,lateral roots number,decreasing
+11,28399720,11_28399720,Positive,A,G,increasing blight resistance,Xa3,Biotic_stress,blight resistance,increasing
+12,10607554,12_10607554,Positive,A,C,increasing blast resistance,Pi-ta,Biotic_stress,blast tolerance,increasing
+12,14233796,12_14233796,Positive,C,T,increasing lateral roots number,Nced,Plant Architecture,lateral roots number,increasing
+12,15970614,12_15970614,Uncertainty,C,T,"fewer N',N''-p-coumaroyl feruloyl spermidine",LOC_Os12g27220,Secondary metabolism,spermidine metabolic process,gain
+12,15999119,12_15999119,Uncertainty,G,A,"fewer N',N''-p-coumaroyl feruloyl spermidine",LOC_Os12g27254,Secondary metabolism,spermidine metabolic process,gain
+12,16005096,12_16005096,Uncertainty,C,T,"fewer N',N''-p-coumaroyl feruloyl spermidine",LOC_Os12g27254,Secondary metabolism,spermidine metabolic process,gain
+12,17302804,12_17302804,Negative,G,A,decreasing blight resistance,xa25,Biotic_stress,blight resistance,decreasing
+12,17305353,12_17305353,Negative,CT,C,decreasing blight resistance,xa25,Biotic_stress,blight resistance,decreasing
+12,22054886,12_22054886,Uncertainty,C,G,photoperiod-sensitive male sterility,pms3,Fertility,photoperiod-sensitive male sterility,gain
+12,24647360,12_24647360,Uncertainty,TA,T,hybrid incompatibility,HSA1a,Fertility,incompatibility,gain
+12,24669797,12_24669797,Uncertainty,GA,G,hybrid incompatibility,HSA1b,Fertility,incompatibility,gain

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Population Structure Analysis"
+  short_description: "Analyze rice structure, similarity, and differentiation"
+  default_prompt: "Use $population-structure-analysis to analyze the Geng-BEVA VCF I provide with the appropriate PCA, IBS/IBD, genotype-summary, pairwise, or FST workflow."

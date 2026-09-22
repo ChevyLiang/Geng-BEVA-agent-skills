@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
+outputs/
+
+# Persistent Geng-BEVA runtime artifacts (generated locally)
+runtime/geng-beva/.venv/
+runtime/geng-beva/bootstrap/
+runtime/geng-beva/runtime_manifest.json
